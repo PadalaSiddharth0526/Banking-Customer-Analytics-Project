@@ -1,0 +1,27 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environments
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Generated data & logs (regenerate via `python run_pipeline.py`)
+data/processed/*.db
+reports/logs/
+
+# Keep raw/processed CSV samples for portfolio viewing - comment out below
+# lines if you prefer a fully clean repo that regenerates everything:
+# data/raw/*.csv
+# data/processed/*.csv
