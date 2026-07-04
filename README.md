@@ -278,3 +278,5 @@ answering business questions in SQL, building explainable customer
 segments, quantifying churn drivers, estimating revenue, and delivering
 insights through both a written report and a live interactive dashboard -
 all reproducible end-to-end with a single command (`python run_pipeline.py`).
+#   B a n k i n g - C u s t o m e r - A n a l y t i c s - P r o j e c t  
+ 
